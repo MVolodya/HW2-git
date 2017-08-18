@@ -33,9 +33,14 @@ https://github.com/MVolodya/hello-world-github
 https://github.com/MVolodya/hello-world-git 
 ![task4, img6](https://github.com/MVolodya/HW2-git/blob/master/source/image6.png)
 ## Task 8
+
 https://github.com/MVolodya/testing-the-github-pages/tree/gh-pages
+
 https://mvolodya.github.io/testing-the-github-pages/ 
-![task4, n9, img5](https://github.com/MVolodya/HW2-git/blob/master/source/image5.png)
-![task4, n10, img13](https://github.com/MVolodya/HW2-git/blob/master/source/image13.png)
+
+![task4, img5](https://github.com/MVolodya/HW2-git/blob/master/source/image5.png)
+
+![task4, img13](https://github.com/MVolodya/HW2-git/blob/master/source/image13.png)
+
 ---
 [Click me to read tasks for homework](https://gist.github.com/itspoma/495b03285a52c1fe7298)
